@@ -56,6 +56,7 @@ Ladda ner sinus minishop. All din kod ska skrivas i *script.js*.
 **12.** Lägg till ett nytt menyalternativ.
 
 **13.** Lägg till en ny produkt med följande info.
+
 |el|beskrivning|
 |---|---|
 |img |hoodie-forrest.png|
