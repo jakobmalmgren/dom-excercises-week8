@@ -37,6 +37,11 @@ header nav a, footer a {
     margin: 0 .5rem;
 }
 
+header nav a.active {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 1);
+}
+
 footer section article {
     display: flex;
     flex-direction: column;

@@ -3,6 +3,12 @@
 # DOM exercises
 ## Kom igång
 Ladda ner sinus minishop. All din kod ska skrivas i *script.js*.
+I denna övning kommer du få öva på:
+
+- Leta reda på saker i DOM och ändra innehåll
+- Lyssna efter events på olika element
+- Lägga till ny HTML med JS
+
 
 ## DOM Selecta!
 ![screen](screen.png)
@@ -24,7 +30,7 @@ Ladda ner sinus minishop. All din kod ska skrivas i *script.js*.
 
 <details>
     <summary>Tips</summary>
-    använd .backgroundColor
+    använd el.style.backgroundColor
 </details>
 
 **6.** Byt bakgrundsfärg på någon av produkterna.
@@ -68,3 +74,8 @@ Ladda ner sinus minishop. All din kod ska skrivas i *script.js*.
     <summary>Tips</summary>
     använd el.insertAdjecentHTML('beforeend',...)
 </details>
+
+## Events
+**14.** Lyssna efter ett klick på logotypen (```.logo```). När den registrerar ett klick skall du console.log:a "found you!";
+
+**15.** Lyssna efter klick på samtliga produkter ( ```<article>```). När den registrerar ett klick skall du console.log:a "Hi, Im article Fire / Ash / Water".
